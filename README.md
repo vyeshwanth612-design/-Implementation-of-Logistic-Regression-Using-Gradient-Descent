@@ -14,7 +14,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 4. 1. Predict the result and display whether the student is placed or not placed.
 
 ## Program:
-```
+```py
 
 import numpy as np
 
